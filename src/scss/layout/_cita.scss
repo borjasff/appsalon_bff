@@ -1,0 +1,15 @@
+.seccion{
+    padding: 5rem 0;
+    display: none;
+    //centramos el texto de p
+    .text-center{
+        text-align: center;
+    }
+}
+
+.mostrar {
+    display: block;
+}
+.ocultar{
+    display: none;
+}
