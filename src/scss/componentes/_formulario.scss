@@ -11,10 +11,10 @@
     align-items: center;
 
     label{
-        flex: 0 0 10rem;
+        flex: auto;
     }
     input{
-        width: 100%;
+        width: 95%;
         border: none;
         padding: calc(v.$separacion / 4);
         border-radius:  10px;
