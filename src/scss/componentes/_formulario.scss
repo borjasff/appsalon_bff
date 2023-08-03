@@ -8,13 +8,13 @@
 .campo{
     display: flex;
     margin-bottom: 2rem;
-    align-items: center;
+
 
     label{
         flex: auto;
     }
     input{
-        width: 95%;
+        max-width: 90%;
         border: none;
         padding: calc(v.$separacion / 4);
         border-radius:  10px;
